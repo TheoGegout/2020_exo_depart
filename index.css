@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: left;
+    height: 50px;
+    line-height: 50px;
+}
+
+.header2 {
+    background-image: url("img/background.jpg");
+    color: white;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+}
+
+.col\.3{
+    width: 25%;
+    float: left;
+    border: solid black 1px;
+}
+
+.col\.9{
+    width: 75%;
+    float: right;
+}
+
+.milieu{
+    text-align: center;
+}
+
+.carousel{
+    background-image: url("img/chat.jpg");
+    height: 450px;
+    width: 850px;
+}
